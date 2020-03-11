@@ -4,10 +4,12 @@
   </div>
 </template>
 
-<script lang="scss" scoped>
+<script>
 
 export default {
-  name: "About",
+  name: 'About',
 };
 
 </script>
+
+<style lang="scss" scoped />
